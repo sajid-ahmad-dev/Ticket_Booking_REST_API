@@ -2,11 +2,9 @@
   "name": "ticket_booking",
   "version": "1.0.0",
   "description": "REST_Api",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "SAJID AHMAD",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^17.0.0",
